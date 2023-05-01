@@ -23,3 +23,4 @@ of the test dataset.
 implementation, this project familiarized myself with many new libraries and gave me a greater understanding of how projects should be undertaken. This topic 
 itself seems very applicable to industry and my career as it allowed me to witness the creation and finish of a project in real time.
 
+The dataset is available at https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data  
