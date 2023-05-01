@@ -1,6 +1,7 @@
 # Ultrasound Image Segmentation
 
-	In its entirety, this project introduced me to deep learning, image segmentation, and their applications in the biomedical field. The project began 
+	In its entirety, this project introduced me to deep learning, image segmentation, and their applications in the biomedical field. 
+	The project began 
 with an outline of how I would approach the problem of image segmentation in ultrasound images, such that a specific structure could be identified. Beginning
 with research on image segmentation, I found that it was necessary to utilize deep learning (via TensorFlow and Keras) to fulfill my goal. However, there were
 many problems that arose from this, beginning with my lack of familiarity on the topic.
