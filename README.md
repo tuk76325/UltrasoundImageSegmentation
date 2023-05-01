@@ -1,10 +1,9 @@
 # Ultrasound Image Segmentation
 
-	In its entirety, this project introduced me to deep learning, image segmentation, and their applications in the biomedical field. 
-	The project began 
-with an outline of how I would approach the problem of image segmentation in ultrasound images, such that a specific structure could be identified. Beginning
-with research on image segmentation, I found that it was necessary to utilize deep learning (via TensorFlow and Keras) to fulfill my goal. However, there were
-many problems that arose from this, beginning with my lack of familiarity on the topic.
+In its entirety, this project introduced me to deep learning, image segmentation, and their applications in the biomedical field. 
+The project began with an outline of how I would approach the problem of image segmentation in ultrasound images, such that a specific structure could be 
+identified. Beginning with research on image segmentation, I found that it was necessary to utilize deep learning (via TensorFlow and Keras) to fulfill my goal. 
+However, there were many problems that arose from this, beginning with my lack of familiarity on the topic.
 	The first step towards completing this project was generating separate lists filled with the training images, training masks, and test images. This 
 required the use of the os library. Following this, each of the image files were appended to two pandas dataframes, one for training and the other for testing. 
 Next, the image file and the mask file were randomly selected at the same index to ensure that the training set of images corresponded to the mask file. 
@@ -20,3 +19,4 @@ of the test dataset.
 	In summation, this project was the culmination of many hours of work towards learning a new data science skill. From outlining to the actual 
 implementation, this project familiarized myself with many new libraries and gave me a greater understanding of how projects should be undertaken. This topic 
 itself seems very applicable to industry and my career as it allowed me to witness the creation and finish of a project in real time.
+
